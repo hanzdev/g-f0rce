@@ -12,3 +12,5 @@ attack example:
   
   
 note: Target mail, suspicious access permits must be activated.
+        
+It was done to test the security of your own mail. Responsibility for external use belongs to the user. Do not use it maliciously.
